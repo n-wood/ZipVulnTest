@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>org.codehaus.plexus</groupId>
 			<artifactId>plexus-archiver</artifactId>
-			<version>3.6.0</version><!-- vuln 3.5 , fixed 3.6.0 -->
+			<version>3.5</version><!-- vuln 3.5 , fixed 3.6.0 -->
 		</dependency>
 	<dependency>
 	    <groupId>org.codehaus.plexus</groupId>
